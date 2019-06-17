@@ -7,7 +7,7 @@
 ## Contents
 
 * [Chap1]()
-* [Chap2]()
+* [Chap2](<https://github.com/Kangyejiii/JavaExample/tree/master/src/main/java/Chap2>)
 * [Chap3]()
 * [Chap4]()
 * [Chap5]()
