@@ -1,5 +1,5 @@
 package chap10.sec05_try_with_resources;
-/**chap10 10-5 자동 리소스 닫기 **/
+/**chap10 10-5 자동 리소스 닫기 try-with-resources**/
 /*
   * try-with-resources
   : 예외 발생 여부와 상관없이 사용했던 리소스 객체(각종 입출력스트림, 서버소켓, 소켓, 각종 채널)의 close()메소드를 호출해서 안전하게 리소스를 닫아준다.
