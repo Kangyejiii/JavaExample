@@ -18,10 +18,18 @@ public class Member implements Cloneable {
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
-        Member cloned = (Member) clone();
+        Member cloned = (Member) super.clone();     //Object의 clone()호출 얕은복사
         cloned.scores = Arrays.copyOf(this.scores,this.scores.length);
         cloned.car = new Car(this.car.model);
         return  cloned;
     }
+    public Member getMember() {
+        Member cloned = null;
+        try{
+            cloned = (Member) clone();      //재정의된 clone() 메소드 호출
+        } catch(CloneNotSupportedException e){}
+        return cloned;
+        }
+
 
 }
