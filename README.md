@@ -6,7 +6,6 @@
 
 ## Contents
 
-* [Chap1 : 자바 시작하기]()
 * [Chap2 : 변수와 타입](<https://github.com/Kangyejiii/JavaExample/tree/master/src/main/java/Chap2>)
 * [Chap3 : 연산자](<https://github.com/Kangyejiii/JavaExample/tree/master/src/main/java/Chap3>)
 * [Chap4 : 조건문과 반복문](<https://github.com/Kangyejiii/JavaExample/tree/master/src/main/java/Chap4>)
@@ -17,5 +16,9 @@
 * [Chap9 : 중첩 클래스와 중첩 인터페이스](<https://github.com/Kangyejiii/JavaExample/tree/master/src/main/java/chap09>)
 * [Chap10 : 예외 처리](<https://github.com/Kangyejiii/JavaExample/tree/master/src/main/java/chap10>)
 * [Chap11 : 기본 API 클래스]()
+* [Chap12 : 멀티 스레드]()
+* [Chap13 : 제네릭]()
+* [Chap14 : 람다식]()
+* [Chap15 : 컬렉션 프레임워크]()
+* [Chap16 : 스트림과 병렬처리]()
 
-  
